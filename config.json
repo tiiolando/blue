@@ -1,0 +1,8 @@
+{
+  "TOKEN": "ton token",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PRUNING": false,
+  "LOCALE": "fr",
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
